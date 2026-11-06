@@ -5,11 +5,11 @@ let height = 175.5;
 let student = 'true'
 let area = '서울';
 
-console.log(name1);
-console.log(age);
-console.log(height);
-console.log(student);
-console.log(area);
+console.log('이름:' + name1);
+console.log('나이:'+age);
+console.log('키:'+height);
+console.log('학생 여부:'+student);
+console.log('거주 지역:'+area);
 
 age = age + 1
 console.log(age)
